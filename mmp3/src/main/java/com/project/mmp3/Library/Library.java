@@ -19,7 +19,7 @@ import org.openqa.selenium.support.ui.Wait;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class Library {
-
+//changes
 	
 	public static void captureScreenshot(WebDriver driver) throws IOException
 	{
