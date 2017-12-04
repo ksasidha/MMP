@@ -19,7 +19,7 @@ import org.openqa.selenium.support.ui.Wait;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class Library {
-//changes to the libarray to kripa_branch
+//changes to the libarray to kripa_branch    hgfyhhghh
 	
 	public static void captureScreenshot(WebDriver driver) throws IOException
 	{
